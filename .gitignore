@@ -1,0 +1,10 @@
+# .gitignore
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.env
+
+venv/
+
+requirements_2.txt
+requirements_10.txt
